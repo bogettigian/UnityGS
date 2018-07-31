@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-class Calculator : MonoBehaviour {
+public class Calculator : MonoBehaviour
+{
 
 	[SerializeField] Text textComponent;
 	System.String globalInput;
@@ -90,6 +91,11 @@ class Calculator : MonoBehaviour {
 			Debug.Log("Hola Santi estamos en el frame: " + frame);
 		}
 		frame++;
+	}
+
+	public void Button(Button boton)
+	{
+		Debug.Log("Hola Santi estamos en el frame: " + boton.name);
 	}
 
 }
