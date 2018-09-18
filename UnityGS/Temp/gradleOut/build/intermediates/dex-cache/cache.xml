@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bogettigian/Programas/Workspace/UnityGS/UnityGS/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="28.0.2"
+        sha1="39ba66685c1fdf2ee2b88168241df4882d6c41a2">
+        <dex dex="/home/bogettigian/Programas/Workspace/UnityGS/UnityGS/Temp/gradleOut/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+
+</items>

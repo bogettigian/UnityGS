@@ -1,0 +1,4 @@
+#Sat Sep 08 17:26:12 ART 2018
+base.0=/home/bogettigian/Programas/Workspace/UnityGS/UnityGS/Temp/gradleOut/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
